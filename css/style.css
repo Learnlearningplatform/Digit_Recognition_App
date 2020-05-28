@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+#paint {
+    padding-top: 15px;
+    text-align: center;
+}
+
+#myCanvas {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 50%;
+    top: 50%;
+    margin-left: -300px;
+    margin-top: -200px;
+    border:  3px solid;
+    border-color: blueviolet;
+}
